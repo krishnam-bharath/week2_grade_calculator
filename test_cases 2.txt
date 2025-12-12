@@ -1,0 +1,31 @@
+TEST CASES FOR STUDENT GRADE CALCULATOR
+
+1. Input:
+   Name: Rahul
+   Marks: 95
+   Output: Grade A, "Excellent! Outstanding performance!"
+
+2. Input:
+   Name: Priya
+   Marks: 85
+   Output: Grade B, "Very Good! Keep it up!"
+
+3. Input:
+   Name: Arjun
+   Marks: 72
+   Output: Grade C, "Good job! You can do even better!"
+
+4. Input:
+   Name: Meera
+   Marks: 65
+   Output: Grade D, "Work harder! You can improve!"
+
+5. Input:
+   Name: Riya
+   Marks: 40
+   Output: Grade F, "Don't worry! Keep practicing!"
+
+6. Invalid Marks Test:
+   Marks: -10 → Show error and ask again
+   Marks: 150 → Show error and ask again
+   Marks: abc → Show error and ask again
