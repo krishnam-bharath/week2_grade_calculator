@@ -18,7 +18,7 @@ It teaches decision-making, loops, functions, and input validation.
 ## 🛠 Setup & Installation
 1. Install Python (if not installed)  
    https://www.python.org
-2. Save the file `grade_calculator.py`
+2. Save the file `grade_calculator.py'
 3. Run the program:
 
 
